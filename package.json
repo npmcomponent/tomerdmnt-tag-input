@@ -1,0 +1,17 @@
+{
+  "name": "tomerdmnt-tag-input",
+  "description": "Turns a text input element into a pretty tags input",
+  "version": "0.0.2",
+  "keywords": [
+    "tags",
+    "tag",
+    "input",
+    "ui"
+  ],
+  "styles": [
+    "tag-input.css"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  }
+}
